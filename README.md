@@ -1,1 +1,1 @@
-#This is my read me file
+Facial Recogniton scripts using python 3. 
